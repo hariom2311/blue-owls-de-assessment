@@ -1,0 +1,126 @@
+seller_city,seller_id,seller_state,seller_zip_code_prefix,_ingested_at,_source_endpoint
+limeira,fcba71d4d5db057f43249145e4eb1e27,SP,13481,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+pacatuba,c747d5b92c7648417faea95d36d763e8,CE,61800,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+serra negra,715bbd5ba4e6b74cb0d2f29eb45058b0,SP,13930,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,1430239a858e7682bbc43b20758af153,SP,04087,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+rio de janeiro,bb7a14e229b1c95156719c3d9552eeee,RJ,23095,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+formosa,d598f929fc44e1e38678e7f47250ec04,GO,73801,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+guarulhos,edc518ba25576a0188a0e8f2c3af186f,SP,07023,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,4c18691b6037662be2df78a765d98ab5,SP,03167,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,8f2b51a30523cdecddc2f179f351c7d6,SP,04833,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+niteroi,6b536a23086fba0d58c08d68814397f6,RJ,24346,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+borda da mata,95f83f51203c626648c875dd41874c7f,MG,37564,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+curitiba,6b243f80ed07b10f0e8aa0f21a205f3c,PR,81825,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ubatuba,e7f3bf1ecd8526eb7f3b18059e6716e5,SP,11680,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+entre rios do oeste,4d600e08ecbe08258c79e536c5a42fee,PR,85988,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao carlos,2089a6d640999f9b9141ac719b2af596,SP,13566,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,2a167ca73899c85001a837d8fb4962f6,SP,37540,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+catanduva,458c6fa920810ce2492da71bc26d9eec,SP,15813,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santos,7494d0dcba8551df6cf37f1b905dc2f7,SP,11013,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+rio de janeiro,698f5fa55a5f73d0740e9d9a773e8093,RJ,20751,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+taboao da serra,4f0d637c1197fd65405ebd755ac9f86b,SP,06768,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,3969863bb8af7f72580b3b1ffd3a17b3,SP,03550,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+formiga,2a5b78b41cd05baeac8df54c6606b92c,MG,35570,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,1f7dfad2cb384ea4d2d7e1ffbd78c407,SP,01139,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santos,08f5819815f3d06545011850bd70f0a8,SP,11075,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+caxias do sul,b32be1695eb7ec5f10f72d9610a12527,RS,95012,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+macae,b94cc9f10ddc85e4ba73a6f7974e7101,RJ,27930,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+lauro de freitas,53243585a1d6dc2643021fd1853d8905,BA,42738,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+belo horizonte,6df688df543f90e9b38f4319e75a9d88,MG,31230,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+rio claro,7f40d06aa0b5f1aa4f41af8c0480e2ef,SP,13506,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+lajeado,dd88d13bea9e4c2bf47daf224f8141e5,RS,95900,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+cascavel,72c38a04bd6a1c3dbc5298425a0db86d,PR,85804,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ribeirao preto,9e17b9d64683aebcbb9ee362d06463b4,SP,14020,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+venancio aires,b5bb2b985208834bd5bd86c7a402bbad,RS,95800,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+campo grande,b1fecf4da1fa2689bccffa0121953643,MS,79107,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao jose do rio preto,7b1222c3624aa89b9558b50a2594188c,SP,15041,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+navegantes,e595809a6c31ec4314fd06ef198c244d,SC,88370,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+belo horizonte,ba6b68b55fe8704377a7d43c8e5c0185,MG,30130,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao bernardo do campo,b8114f2f589a6804810f04f99b36b498,SP,09633,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+cotia,83d7070a0b9a8b4625fa8682b819fabb,SP,06717,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,570d4583587a5fe2d47c7be89b91ad27,SP,02220,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,9591fc341b1bfb7ef561e2968ec6e011,SP,04456,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santos,0af977692321d895349eded183341d28,SP,11070,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+limeira,b33aaadd1a8891d2dfef0c4c3bdf0371,SP,13481,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santana de parnaiba,5d9dc90a686a8fddacffab6bab5653a3,SP,06513,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+curitiba,cc80e2f693fa6e2408f47ccf62413fc1,PR,81050,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+cruzeiro,dee656f0f566ed1aa85bd137c943f08f,SP,12701,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,ace601496e211a664100321f038f50af,SP,02372,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ibitinga,d673a59aac7a70d8b01e6902bf090a11,SP,14940,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+diadema,966cb4760537b1404caedd472cc610a5,SP,09920,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,d4a5e99e0dd915df64ba55a7fbd583fd,SP,05041,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+maringa,6bcb2352a2a0c38b845f598298ab9d26,PR,87050,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santa maria,2c2c9832d1bb38c5b0034a3b47d313ee,RS,97050,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+brasilia,f3b80352b986ab4d1057a4b724be19d0,DF,71200,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sorocaba,b452cb0ae35044c4a53179c39f49fb06,SP,18047,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao jose do rio preto,0307f7565ff85b299b6e5ef162b1b1a9,SP,15085,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+mirassol,ffeee66ac5d5a62fe688b9d26f83f534,SP,15130,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+osasco,3bfad056cf05c00dabe2f895925d83b1,SP,06033,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+muriae,9aa388272ee334b6ae07bc73706e254a,MG,36886,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,74bafed391319577bce6f4d2acc0589a,SP,01311,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,2b03ac196f5ed62ac483960fe0fa3b65,SP,02510,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+canoas,0b64bcdb0784abc139af04077d49a20e,RS,92420,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+rio de janeiro,0bfd0b434243adc5c2e1aa6baf19c6aa,RJ,22745,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao bernardo do campo,92d14edfb62ee5ae7fdff70b0f4e7233,SP,09810,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao jose do rio preto,5e105f5c9f63f5f1fd75d6cb942e55b1,SP,15076,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+volta redonda,2fb25ab44bdbeae6a4d816e0d0c9d500,RJ,27274,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+guarulhos,ed4311e67debd72b8610a5347a743087,SP,07170,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,5bf397d04035b5f45cc41e82ec106803,SP,04144,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,f9bbdd976532d50b7816d285a22bd01e,SP,05319,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,e3e15e2c0b9700561efac21c6be48066,SP,05315,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,a5bff0f43eb51f0cad7c37fac7244c8a,SP,04827,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+santo andre/sao paulo,f52c2422904463fdd7741f99045fecb6,SP,09230,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ipe,14f2b3587172b9db894c9bad8dab520b,RS,95240,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,1354d51653f645349064725ed204e85e,SP,01230,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+messias targino,eaaa46e98c9e61f6764dd1d7a2ab8b3e,RN,59775,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+petropolis,5b664594895aefb418afaee6d40a9a23,RJ,25750,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,bf00385a5f7fc1ef39a13c2e9ee50a5f,SP,01224,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+campinas,391bbd13b6452244774beff1824006ed,SP,13082,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,c714262700f93defc16bf17a51a4cb23,SP,02751,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+curitiba,bcd2d7510d58e293f20fad6438c1b314,PR,81540,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+porto ferreira,ec4608a1f76453166bb312b2968aeaf4,SP,13660,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+varginha,5c603ffb38cbbf25a0e0698941324143,MG,37004,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+belo horizonte,2bd05d410a8fd26dc4184a15f4f2f588,MG,31130,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+porto alegre,4dab98ca6cd6d3df586203cefd28a042,RS,91150,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+brasilia,293dee954235e4e4e43f129313625ebe,DF,72125,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ribeirao preto,cd68562d3f44870c08922d380acae552,SP,14050,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+botucatu,082e0bf4cb865a6533b1e8e498cc0255,SP,18608,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+curitiba,c286ec035ee04ba81c97508f0b5df544,PR,81320,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,dd8a29ce82d5c705ba932d81494600a5,SP,08220,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+domingos martins,41da412d33e8da4f22baf55cb1bde82c,ES,29260,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+campinas,782f78b632a43875dd5b53e3e49c9564,SP,13030,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,28405831a29823802aa22c084cfd0649,SP,03644,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+uberaba,fe19dce63ae80346207c6c55713d1023,MG,38010,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+presidente prudente,a67780aba9dd436e7ac0aa1f889e73ec,SP,19027,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,d594982fd877af63ace38ea1fca27c76,SP,01031,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,dda37071807e404c5bb2a1590c66326f,SP,03282,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+coronel fabriciano,5bc55dbe2f12b6af6d83ed46023e0dc8,MG,35170,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,b1b3948701c5c72445495bd161b83a4c,SP,03390,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+cachoeirinha,4e92348462c75b6c842b994ce84a0ed4,RS,94930,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,6e13dd869aa7185f601c941423abcc8f,SP,05311,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ibitinga,723cd880edaacdb998898b67c8f9da30,SP,14940,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,00ee68308b45bc5e2660cd833c3f81cc,SP,03333,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+maua,1fbe10c70e30765ed1de86d9f7e98409,SP,09320,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao goncalo,001e6ad469a905060d959994f1b41e4f,RJ,24754,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao bernardo do campo,685b870da5b52a710782c9c0fefbeb5b,SP,09820,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+s jose do rio preto,701938c450705b8ae65fc923b70f35c7,SP,15014,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ribeirao preto,f3862c2188522d89860c38a3ea8b550d,SP,14092,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+taruma,f5f1f2c5f923f36ad79ea1d07185ddc9,SP,19820,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,cf8ab1616079e2793aa29d524df01bb1,SP,04088,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+garca,160851d3ece7aa1a510f8d1a4bb8a8af,SP,17400,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+guarulhos,61c36f0fc4a47f9532e5512b66668e62,SP,07043,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+uberlandia,59b22a78efb79a4797979612b885db36,MG,38414,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+limeira,553a440137d6e0cf776aee0bb83ac9f5,SP,13481,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,ea8482cd71df3c1969d7b9473ff13abc,SP,04160,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,72bc2cce903c872fe376a8faaa81d237,SP,04693,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,65c255b299faf2d12050937cc219c46c,SP,03060,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+pirassununga,f09e26011d833ddab11593c1a097a92a,SP,13632,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,72c73be2b085b9d57650dd53eb2004c9,SP,02116,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,c2bda99904207edd1834f03e0022b007,SP,08280,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sorocaba,3d4824f20035949c710eaf111f869d39,SP,18015,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sorocaba,042573af89b6d931f672efaf789d8358,SP,18015,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+sao paulo,5b925e1d006e9476d738aa200751b73b,SP,04567,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+belo horizonte,06bb3a2fe5e7b7a845b13e8fb91bd944,MG,31844,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+ribeirao preto,5f5a58930c3c35f3b5af264f34fb8c85,SP,14020,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+campinas,fe2032dab1a61af8794248c8196565c9,SP,13030,2026-04-01T05:53:05.660301,/api/v1/data/sellers
+aruja,3092c0b297aacfb4bb6e056ebe13b9b8,SP,07402,2026-04-01T05:53:05.660301,/api/v1/data/sellers

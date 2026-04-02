@@ -1,0 +1,12 @@
+seller_city,seller_id,seller_state,seller_zip_code_prefix,_ingested_at,_source_endpoint
+sao paulo,eb9cd5b35d95206585e2185318cb5c61,SP,03064,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+marilia,08d2d642cf72b622b14dde1d2f5eb2f5,SP,17512,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+barueri,525e75a6fb1454a2325ab1734bcec221,SP,06453,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+itajai,0e982cff76cc0579f632cea8a0e38c9d,SC,88316,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+pedreira,bc30de0d71bd6260b936a026b5cf7200,SP,13920,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+timoteo,014c0679dd340a0e338872e7ec85666a,MG,35180,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+mogi das cruzes,78ba5933c21686d1c2f64669c8c459e7,SP,08810,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,6ee85be3693ed79a8e80718743d80655,SP,03937,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,63272377184e969942f7fff221be858d,SP,03340,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,d5ba419e26d246a0719437cf37d9b46d,SP,03437,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+muqui,15aac934c58d886785ac1b17953ea898,ES,29480,2026-04-01T05:53:06.585202,/api/v1/data/sellers

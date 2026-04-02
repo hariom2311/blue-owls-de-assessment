@@ -1,0 +1,12 @@
+seller_city,seller_id,seller_state,seller_zip_code_prefix,_ingested_at,_source_endpoint
+sao paulo,778323240ce2830d68aab11794e00bfb,SP,13600,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+brasilia,2493dc3f20131696a0ecdb9948051a8d,DF,71065,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+salvador,a3dd39f583bc80bd8c5901c95878921e,BA,41342,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+rio de janeiro,4342d4b2ba6b161468c63a7e7cfce593,RJ,22793,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+maringa,06df0c10d34e459d9672bc77388742eb,PR,87045,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,89757206b887aed36f3e18d858460fea,SP,03121,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+formosa,d8b8f2cf9ff6ba0389072541cb42498c,GO,73813,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao joao de meriti,3c03b12bab54d8b37d79d914bfdb1aa0,RJ,25561,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+aparecida de goiania,9d5a9018aee56acb367ba9c3f05d1d6a,GO,74930,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,f9244d45189d3a3605499abddeade7d5,SP,03029,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+sao paulo,2b3b9ce054da76a7428df143a567b156,SP,03572,2026-04-01T05:53:06.585202,/api/v1/data/sellers

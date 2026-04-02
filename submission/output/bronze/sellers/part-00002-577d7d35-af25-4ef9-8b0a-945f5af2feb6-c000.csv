@@ -1,0 +1,12 @@
+seller_city,seller_id,seller_state,seller_zip_code_prefix,_ingested_at,_source_endpoint
+sao jose do rio pardo,63b9ae557efed31d1f7687917d248a8d,SP,13720,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+uberaba,ef9952469137ff190bacafe117f51537,MG,38022,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+rio de janeiro,c18309219e789960add0b2255ca4b091,RJ,20521,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+irati,4a82168aaef173cbb6e46ae88728f919,PR,84500,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+riberao preto,17e34d8224d27a541263c4c64b11a56b,SP,14085,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+rolandia,e2aee0892199b1d92530e371abd825bf,PR,86600,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+pocos de caldas,870d0118f7a9d85960f29ad89d5d989a,MG,37708,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+recife,eb9267cccc90f1b49c8d2f9887c7dd97,PE,52011,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+florianopolis,5de1c80811ce7007f62f00d971236c09,SC,88063,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+itatiba,ec8879960bd2221d5c32f8e12f7da711,SP,13253,2026-04-01T05:53:06.585202,/api/v1/data/sellers
+porto alegre,586a871d4f1221763fddb6ceefdeb95e,RS,90630,2026-04-01T05:53:06.585202,/api/v1/data/sellers
