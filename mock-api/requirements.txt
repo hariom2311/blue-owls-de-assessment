@@ -1,0 +1,4 @@
+fastapi[standard]
+uvicorn[standard]
+python-jose[cryptography]
+pydantic-settings

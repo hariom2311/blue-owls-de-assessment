@@ -1,0 +1,37 @@
+services:
+  mock-api:
+    build: ./mock-api
+    ports:
+      - "${API_PORT:-8000}:8000"
+    volumes:
+      - ./mock-api/data:/app/data:ro
+    environment:
+      - TOKEN_EXPIRY_MINUTES=${TOKEN_EXPIRY_MINUTES:-15}
+      - FAILURE_RATE=${FAILURE_RATE:-0.12}
+      - FAILURE_500_WEIGHT=${FAILURE_500_WEIGHT:-0.6}
+      - FAILURE_429_WEIGHT=${FAILURE_429_WEIGHT:-0.4}
+      - RATE_LIMIT_RETRY_AFTER=${RATE_LIMIT_RETRY_AFTER:-2}
+      - API_USERNAME=${API_USERNAME:-candidate}
+      - API_PASSWORD=${API_PASSWORD:-blue-owls-2026}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/v1/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  notebook:
+    image: jupyter/pyspark-notebook:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./submission:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - API_BASE_URL=http://mock-api:8000
+      - API_USERNAME=${API_USERNAME:-candidate}
+      - API_PASSWORD=${API_PASSWORD:-blue-owls-2026}
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
+    depends_on:
+      mock-api:
+        condition: service_healthy
