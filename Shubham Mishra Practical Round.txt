@@ -1,0 +1,35 @@
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col
+from pyspark.sql.functions import sum as _sum, countDistinct
+ 
+Spark = SparkSession.builder.appName(“RetailETL”).getOrCreate()
+customers_df = spark.read.option(“header”, True).csv(“file:///data/customers.csv”)
+product_df = spark.read.option(“header”, True).csv(“file:///data/product.csv”)
+sales_df = spark.read.option(“header”, True).csv(“file:///data/store_*.csv”)
+ 
+Customers_df = customers_df.dropDuplicates([“CustomerID”])
+product_df = product_df.dropDuplicates([“ProductID”])
+sales_df = sales_df.dropDuplicates([“TransactionID”])
+ 
+sales_df = sales_df.fillna({ “DiscountPercentage” : 0 })
+sales_df = sales_df.withColumn(“DiscountPercentage”, col(“DiscountPercentage”).cast(“int”))
+ 
+df = sales_df.join(product_df, “ProductID”, “left”)
+	.join(Customers_df, “CustomerID”, “left”)
+ 
+df = df.withColumn(“finalPrice”, col(“UnitPrice”) * col(“QuantitySold”) * (1 - col(“DiscountPercentage”)/100))
+ 
+atv_df = df.groupBy(“CustomerID”)
+	.agg(_sum(“finalPrice”)/
+countDistinct(“TransactionID”)).alias(“ATV_for_each_cust”)
+ 
+Ipt_df = df.groupBy(“CustomerID”)
+	.agg(_sum(“QuantitySold”)/
+countDistinct(“TransactionID”)).alias(“ipt_perTran_for_each_cust”)
+ 
+ 
+final_df = atv_df.join(ipt_df, “CustomerID”)
+final_df.coalesce(1).write
+	.mode(“overwrite”)
+	.option(“header”, True)
+	.csv(“file:///data/output/etl_output.csv/”)
